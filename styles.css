@@ -64,12 +64,12 @@ ul {
 
 .hero-section {
     display: flex;
+    align-items: center;
 }
 
 .hero-section .image {
     width: 500px;
-    background-color: grey;
-    padding: 50px;
+    padding: 20px;
     margin: 20px;
 }
 
